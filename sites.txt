@@ -1,0 +1,6 @@
+url -------- element we look for
+
+1. https://www.wired.co.uk/ - main
+2. https://thenextweb.com/latest - div with id articleList
+3. https://www.bbc.co.uk/sport/football - div with class sp-c-cluster
+4. https://news.sky.com/world - div with class sdc-site-tiles__group
